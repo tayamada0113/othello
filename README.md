@@ -1,0 +1,2 @@
+# othello
+to learn ruby
